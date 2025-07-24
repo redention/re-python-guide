@@ -36,6 +36,3 @@ For all contributions, please follow the `Guide Style Guide`:
 
 https://docs.python-guide.org/notes/styleguide/
 
-la=[1,2,3]
-for i in range(len(la))
-    print(la)
