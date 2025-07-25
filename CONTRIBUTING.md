@@ -36,3 +36,6 @@ For all contributions, please follow the `Guide Style Guide`:
 
 https://docs.python-guide.org/notes/styleguide/
 
+sum=lambda a,b:a+b
+print(sum(10,3))
+
